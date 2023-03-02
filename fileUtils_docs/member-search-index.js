@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"cscd212utils.fileutils","c":"FileUtils","l":"openInputFile(Scanner)","url":"openInputFile(java.util.Scanner)"},{"p":"cscd212utils.fileutils","c":"FileUtils","l":"openInputFile(String)","url":"openInputFile(java.lang.String)"}]

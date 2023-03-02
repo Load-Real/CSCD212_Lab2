@@ -1,0 +1,163 @@
+ 
+  ----jGRASP exec: java cscd212lab2.CSCD212Lab2
+ Please enter the name of the input file movies.txt
+ Please choose from the following
+ 1) Print movies to the screen
+ 2) Order the movies based on natural order
+ 3) Order the movies based on the total order of running time
+ 4) Order the movies based on the total order of major studio unit
+ 5) Build a movie and determine if the movie is in the array list
+ 6) Build a movie and add it into the array list
+ 7) Quit
+ Choice --> 1
+ Movie Studio: Universal Pictures
+ Movie Name: Running Man
+ Running Time: 101
+ 
+ Movie Studio: Paramount Pictures
+ Movie Name: Universal Soldier
+ Running Time: 91
+ 
+ Please choose from the following
+ 1) Print movies to the screen
+ 2) Order the movies based on natural order
+ 3) Order the movies based on the total order of running time
+ 4) Order the movies based on the total order of major studio unit
+ 5) Build a movie and determine if the movie is in the array list
+ 6) Build a movie and add it into the array list
+ 7) Quit
+ Choice --> 2
+ Please choose from the following
+ 1) Print movies to the screen
+ 2) Order the movies based on natural order
+ 3) Order the movies based on the total order of running time
+ 4) Order the movies based on the total order of major studio unit
+ 5) Build a movie and determine if the movie is in the array list
+ 6) Build a movie and add it into the array list
+ 7) Quit
+ Choice --> 1
+ Movie Studio: Universal Pictures
+ Movie Name: Running Man
+ Running Time: 101
+ 
+ Movie Studio: Paramount Pictures
+ Movie Name: Universal Soldier
+ Running Time: 91
+ 
+ Please choose from the following
+ 1) Print movies to the screen
+ 2) Order the movies based on natural order
+ 3) Order the movies based on the total order of running time
+ 4) Order the movies based on the total order of major studio unit
+ 5) Build a movie and determine if the movie is in the array list
+ 6) Build a movie and add it into the array list
+ 7) Quit
+ Choice --> 3
+ Please choose from the following
+ 1) Print movies to the screen
+ 2) Order the movies based on natural order
+ 3) Order the movies based on the total order of running time
+ 4) Order the movies based on the total order of major studio unit
+ 5) Build a movie and determine if the movie is in the array list
+ 6) Build a movie and add it into the array list
+ 7) Quit
+ Choice --> 1
+ Movie Studio: Paramount Pictures
+ Movie Name: Universal Soldier
+ Running Time: 91
+ 
+ Movie Studio: Universal Pictures
+ Movie Name: Running Man
+ Running Time: 101
+ 
+ Please choose from the following
+ 1) Print movies to the screen
+ 2) Order the movies based on natural order
+ 3) Order the movies based on the total order of running time
+ 4) Order the movies based on the total order of major studio unit
+ 5) Build a movie and determine if the movie is in the array list
+ 6) Build a movie and add it into the array list
+ 7) Quit
+ Choice --> 4
+ Please choose from the following
+ 1) Print movies to the screen
+ 2) Order the movies based on natural order
+ 3) Order the movies based on the total order of running time
+ 4) Order the movies based on the total order of major studio unit
+ 5) Build a movie and determine if the movie is in the array list
+ 6) Build a movie and add it into the array list
+ 7) Quit
+ Choice --> 1
+ Movie Studio: Paramount Pictures
+ Movie Name: Universal Soldier
+ Running Time: 91
+ 
+ Movie Studio: Universal Pictures
+ Movie Name: Running Man
+ Running Time: 101
+ 
+ Please choose from the following
+ 1) Print movies to the screen
+ 2) Order the movies based on natural order
+ 3) Order the movies based on the total order of running time
+ 4) Order the movies based on the total order of major studio unit
+ 5) Build a movie and determine if the movie is in the array list
+ 6) Build a movie and add it into the array list
+ 7) Quit
+ Choice --> 5
+ Please enter the movie studio name NBCUniversal
+ Please enter the movie studio owner Comcast
+ Please enter the major studio unit name Universal Pictures
+ Please enter the movie name Running Man
+ Please enter the movie running time 101
+ Please enter the movie genre (Romantic Comedy/Comedy/Horror/Action) Romantic Comedy
+ Movie found at index 1
+ Please choose from the following
+ 1) Print movies to the screen
+ 2) Order the movies based on natural order
+ 3) Order the movies based on the total order of running time
+ 4) Order the movies based on the total order of major studio unit
+ 5) Build a movie and determine if the movie is in the array list
+ 6) Build a movie and add it into the array list
+ 7) Quit
+ Choice --> 6
+ Please enter the movie studio name NBCUniversal
+ Please enter the movie studio owner Comcast
+ Please enter the major studio unit name Universal Pictures
+ Please enter the movie name Halloween
+ Please enter the movie running time 97
+ Please enter the movie genre (Romantic Comedy/Comedy/Horror/Action) Horror
+ Please choose from the following
+ 1) Print movies to the screen
+ 2) Order the movies based on natural order
+ 3) Order the movies based on the total order of running time
+ 4) Order the movies based on the total order of major studio unit
+ 5) Build a movie and determine if the movie is in the array list
+ 6) Build a movie and add it into the array list
+ 7) Quit
+ Choice --> 1
+ Movie Studio: Paramount Pictures
+ Movie Name: Universal Soldier
+ Running Time: 91
+ 
+ Movie Studio: Universal Pictures
+ Movie Name: Running Man
+ Running Time: 101
+ 
+ Movie Studio: Universal Pictures
+ Movie Name: Halloween
+ Running Time: 97
+ 
+ Please choose from the following
+ 1) Print movies to the screen
+ 2) Order the movies based on natural order
+ 3) Order the movies based on the total order of running time
+ 4) Order the movies based on the total order of major studio unit
+ 5) Build a movie and determine if the movie is in the array list
+ 6) Build a movie and add it into the array list
+ 7) Quit
+ Choice --> 7
+ Good Bye
+ 
+  ----jGRASP: operation complete.
+ 
